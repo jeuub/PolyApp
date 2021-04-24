@@ -1,0 +1,90 @@
+.vkuiChipsSelect__option {
+  max-height: none;
+} 
+.vkuiChipsSelect__options .vkuiCustomScrollView__box {
+  max-height: none;
+}
+
+.vkuiChipsInput__container {
+  max-height: 88px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  width: 100%!important;
+}
+.vkuiChip__in {
+  padding-left: 15px;
+}
+.vkuiCustomScrollView__trackerY {
+  left: -9px;
+}
+.vkuiChipsInput__container::-webkit-scrollbar {
+  height: 10px;
+  width: 6px;
+}
+.vkuiIcon--dropdown_20 {
+  display: block;
+  margin-right: 10px;
+}
+.vkuiChipsInput__container::-webkit-scrollbar-thumb {
+  background: #616161;
+  -webkit-border-radius: 1ex;
+  -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.75);
+}
+.vkuiChipsSelect__options {
+  height: 650%;
+}
+@media screen and (min-width: 450px) {
+  .vkuiChipsSelect__options {
+    height: 650%;
+    max-height: 300px;
+  }
+  .vkuiChipsSelect__options .vkuiCustomScrollView__box {
+    max-height: 300px;
+  }
+  .vkuiChipsSelect__option {
+    max-height: 300px;
+  }     
+}
+@media screen and (min-width: 600px) {
+
+  .vkuiChipsSelect__options {
+    height: 600%;
+    max-height: 300px;
+  }
+  .vkuiChipsSelect__options .vkuiCustomScrollView__box {
+    max-height: 300px;
+  }
+  .vkuiChipsSelect__option {
+    max-height: 300px;
+  } 
+}
+
+@media screen and (min-width: 769px) {
+  .vkuiChipsSelect__options {
+    height: 1000%;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .vkuiChipsSelect__options {
+    height: 300%;
+    max-height: 260px;
+  }
+  .vkuiChipsSelect__options .vkuiCustomScrollView__box {
+    max-height: 260px;
+  }
+  .vkuiChipsSelect__option {
+    max-height: 260px;
+  } 
+}  
+/* .vkuiFormField  {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-height: 80px;
+} */
+
+[title="Информационные технологии"], [title="Экономика и Управление"] {
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.1rem;
+  align-items: flex-end;
+} 
