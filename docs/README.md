@@ -2,7 +2,7 @@
 
 1. [Гайд по установке приложения](https://github.com/AlekseyPanaskin/PolyApp/blob/master/docs/Install_guideline.md "Гайд по установке приложения")
 2. [Прототипный макет](https://www.figma.com/file/NlhslemGul82t2tPZwxag8/PolyApp?node-id=20%3A7668 "Прототипный макет")
-3. Отчёт в формате .docx
+3. [Отчёт в формате.docx](docs/Итоговый отчёт PolyApp.docx)
 4. [Руководство пользователя](https://github.com/AlekseyPanaskin/PolyApp/blob/master/docs/usermanual.docx "Руководство пользователя")
 
 
