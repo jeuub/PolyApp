@@ -1,0 +1,57 @@
+.dorms__title {
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    text-align: center;
+    opacity: .5;
+    font-size:1.25rem;
+  }
+  
+  .dorms__text {
+    margin: 0 16px 8px 16px;
+    line-height: 1.4rem;
+  }
+  .dorms__priority {
+    padding-left:32px!important;
+    list-style-type:number;
+    line-height:146%;
+  }
+  .dorms__card {
+    background:transparent!important;
+    margin-bottom: 20px;
+  }
+  .dorms__card__photo {
+    padding-bottom: 66%;
+    background-position: center;
+    background-size: cover!important;
+    width: 100%;
+    border-radius: 8px;
+  }
+  .dorms__card__content {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-direction:column;
+    margin-top:10px;
+  }
+  .dorms__card__content__number {
+    text-align:left;
+    width: 100%;
+  } 
+  .dorms__card__content__address {
+    text-align:left;
+    opacity: .5;
+    font-size:.85rem;
+  }
+  .dorms__card__content__metro {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .dorms__card__content__metro__color {
+    padding: 0;
+  }
+  .dorms__card__content__metro__text {
+    text-align: center;
+    opacity: .5;
+    padding-top: 0!important;
+  }

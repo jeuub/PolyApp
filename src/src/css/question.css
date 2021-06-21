@@ -1,0 +1,19 @@
+.instruction__icon {
+    width:100% !important;
+    height: 30% !important;
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+}
+.instruction__icon > svg{
+    width:30% !important;
+    height:30% !important;
+}
+a.link-instruction{
+    line-height: 30px !important;
+}
+ol{margin-top: 0; margin-bottom: 0;}
+
+.heading div div div{
+    font-size: 16px !important;
+}

@@ -25,7 +25,7 @@ const Start = ({ id, go, fetchedUser }) => {
 		{fetchedUser &&
 		<Group header={<Header mode="primary">Приветствуем тебя</Header>}>
 			<Div className="homepage-subhead">
-				<Subhead weight="semibold">Это мобильное приложения Московского Политеха</Subhead>
+				<Subhead weight="semibold">Это мобильное приложение Московского Политеха</Subhead>
 			</Div>
 			<Cell
 				before={fetchedUser.photo_200 ? <Avatar src={fetchedUser.photo_200}/> : null}

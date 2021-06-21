@@ -2,3 +2,7 @@
   margin-bottom: 16px;
   text-align: center;
 }
+.radio {
+  padding:0;
+  max-width: calc(100% - 80px);
+}

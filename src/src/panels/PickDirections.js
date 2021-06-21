@@ -84,7 +84,7 @@ render () {
 		<FixedLayout filled vertical="bottom">
 			<Div>
         <Button stretched size="l" mode="primary"
-        disabled={!this.state.valid} onClick={this.props.go} data-to="start">Продолжить</Button>
+        disabled={!this.state.valid} onClick={this.props.go} data-to="acquaintance">Продолжить</Button>
       </Div>
 		</FixedLayout>
 	</Panel>

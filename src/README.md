@@ -1,59 +1,87 @@
-[<img width="134" src="https://vk.com/images/apps/mini_apps/vk_mini_apps_logo.svg">](https://vk.com/services)
+# Проект: «Приложение PolyApp»
+Этот проект создан для абитуриентов и студентов Московского Политеха. 
+Для абитуриентов – изучить направления, узнать, что нужно сдать для поступления, какие документы потребуются и посмотреть общежития. 
+Для студентов – иметь под рукой всю нужную информацию: номер студенческого, профбилета и решения частых вопросов про студенческую жизнь.
 
-# Create VK Mini App [![npm][npm]][npm-url] [![deps][deps]][deps-url]
+Преимущество приложения в его мультиплатформенность. Использование платформы VK позволяет не переписывать код под разные платформы, а сконцентрировать внимание на самом приложении. Так же присутствие мини-приложения внутри соц.сети позволит использовать функционал приложения: делится им в личных сообщениях или ленте новостей, не переходя на сторонние сайты.
 
-## How to use
+Презентация проекта – 
 
-### With NPX
 
-```bash
-npx @vkontakte/create-vk-mini-app [app-directory-name] [options]
-```
-[NPX](https://github.com/npm/npx) allows you to always use the **latest** version of the package without a global installation.
+## Участники
 
-### With installing the package globally
-Install the package globally via yarn
-```bash
-yarn global add @vkontakte/create-vk-mini-app
-```
-...or npm
-```bash
-npm install --global @vkontakte/create-vk-mini-app
-```
+| Учебная группа | Имя пользователя | ФИО                      |
+|----------------|------------------|--------------------------|
+| 201-321        | @jeuub           | Бодур Э.М.               |
+| 201-321        | @UnknownRakon    | Воробьёв В.В.            |
+| 201-323        | @AlekseyPanaskin | Панаскин А.Д.            |
+| 201-323        | @ZixxanGames     | Сергеев О.П.             |
 
-and use as follows
+## Личный вклад участников
 
-```bash
-create-vk-mini-app [app-directory-name] [options]
-```
+### Панаскин А. Д.
+1. Подготовка схемы логики приложения - 2 часа
+2. Обсуждение схемы с командой - 1 час
+3. Корректировка схемы - 1 час
+4. Изучение документации Vk-mini-apps - 6 часов
+5. Изучение документации react-Js - 6 часов
+6. Изучение работы с json-файлами - 2 часа
+7. Исправление мелких багов - 7 часов
+8. Создание макета лендинга сайта - 4,5 часа
+9. Проектирование структур json объектов - 2 часа
+10. Наполнение приложения контентом - 8 часов
+11. Создание лендинга приложения на Tilda - 4 часа
+12. Написание отчёта - 6 часов
+13. Написание отчёта в Git-репозитории - 4 часа
+14. Создание презентации - 3 часа
+15. Создание постера приложения - 3 часа
+16. Обсуждение рабочего процесса с командой и куратором в Discord - 5 часов
+17. Тестирование приложения и выявление опечаток в текстах - 4 часа
+19. Создание группы в ВК и подготовка постов - 2 часа
+20. Сортировка вопросов из формы-опросника - 1,5 часа
+В сумме: 72 часа
+### Воробьёв В. В.
+1. Создание макета приложения в Figma - 8 часов
+2. Командное обсуждение проекта - 5 часов
+3. Иучение документации Vk-mini-apps - 6 часов
+4. Иучение документации react-Js - 6 часов
+5. Иучение работы с json-файлами - 1,5 часа
+6. Написание кода для UI/UX - 30 часов
+7. Объединие веток других членов команды - 4 часа
+8. Тестирование интерфейса - 5 часов
+9. Изучение работы с Github - 2 часа
+10. Изучение работы админского сайта - 2 часа
+11. Корректировка дизайна - 4 часа
+В сумме: 73,5
 
-This way is less recommended because you will have to update the package yourself.
 
-### Options
-Without `--zeit` and `--surge` options 
+### Сергеев О.П. 
+1. 
+2. Иучение документации Vk-mini-apps - 6 часов
+3. Иучение документации react-Js - 6 часов
+4. Иучение работы с json-файлами - 2 часа
+4. Изучение создания веб страниц с функционалом CRUD - 6 часов
+5. Написание алгоритмов для взаимодействия интерфейса с JSON-объектами - 6 часов
+6. Написание страницы администрирования с функционалом CRUD - 16 часов
+7. Командное обсуждение проекта - 5 часов
+8. Изучение и активация хостинга для ФИТовцев - 3 часа
+9. Изучение функций интегрированных приложений в вк - 6 часов
+10. Миграция проекта из локальных проектов на сервера  - 2 часа
+11. Рефакторинг кода - 6 часов
+12. Тестирование приложения - 6 часов
+13. Тестирование админской страницы - 2 часа 
+14. Заполнение приложения контентом - 2 часа
+В сумме: 74
 
-#### `--zeit`
-Vercel (Zeit) deploy
+### Бодур Э.М. 
+1. Командное обсуждение проекта - 5 часов
+2. Иучение документации Vk-mini-apps - 6 часов
+3. Иучение документации react-Js - 6 часов
+4. Иучение работы с json-файлами - 2 часа
+5. Создание макета логики приложения в Illustartor - 6 часов
+6. Написание кода для UI/UX - 35 часов
+7. Тестирование кода и интерфейса - 6 часов
+8. Изчение работы с Github - 2 часа
+9. Рефакторинг кода - 6 часов
+В сумме: 74 часа
 
-Firstly, you have to create Vercel account and connect it with your GitHub profile on [vercel.com](https://vercel.com)
-
-#### `--surge <surge-domain>`
-Surge deploy
-
-Firstly, you have to create Surge account and Surge-domain on [surge.sh](https://surge.sh)
-
-#### `--help`
-Prints the synopsis and a list of options
-
-## How to start work with app
-
-Go to created folder and run:  
-`yarn start` or  `npm start` to start dev server with hot reload on `localhost:10888`.
-
-`yarn run build` or `npm run build` to build production bundle, with tree-shaking, uglify and all this modern fancy stuff.
-
-[npm]: https://img.shields.io/npm/v/@vkontakte/create-vk-mini-app.svg
-[npm-url]: https://npmjs.com/package/@vkontakte/create-vk-mini-app
-
-[deps]: https://img.shields.io/david/vkcom/create-vk-mini-app.svg
-[deps-url]: https://david-dm.org/vkcom/create-vk-mini-app

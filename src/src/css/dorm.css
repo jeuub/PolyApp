@@ -1,0 +1,15 @@
+.dorm__card__photo {
+  padding-bottom: 66%;
+  background-position: center;
+  background-size: cover!important;
+  width: 100%;
+  border-radius: 8px;
+}
+.dorm__title {
+  margin-bottom: 8;
+  text-transform: uppercase;
+  text-align: center;
+  opacity: .5;
+  font-size:1.25rem;
+  padding-top: 10px;
+}

@@ -1,0 +1,16 @@
+ul {
+    padding-inline-start: 16px;
+    list-style-type: number;
+    margin: 10px 6px;
+  }
+  .choosedDirectionInfo_title {
+    margin: 16px 16px 0;
+    padding: 16px;
+    background: var(--content_tint_background);
+    border-radius: 8px;
+    font-size:1.2rem;
+  }
+  
+  .choosedDirectionInfo__fixed {
+    position: sticky;
+  }

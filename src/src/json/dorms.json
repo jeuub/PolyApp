@@ -1,0 +1,110 @@
+{
+    "Общежития": [
+        {
+            "Номер": "№1",
+            "Адрес":"Малая Семёновская 12",
+            "Метро":"Электрозаводская",
+            "Цвет":"#0078BF",
+            "Описание": "Расположено максимально удобно к учебному корпусу «На Большой Семёновской»<br><br>Тип общежития: блочный – по 2 комнаты в блоке с санитарным узлом и душевой, кухня общая на этаже <br><br>Проживающих в блоке: 5<br><br>Инфраструктура: коворкинг, тренажерный зал, прачечная, столовая, спортивная площадка, бесплатный Wi-Fi",            
+            "Фотографии": 
+            [                
+                "https://sun9-51.userapi.com/impg/yzkdtjGhi1xqwEvDkPN61IqxjIyZyUcAVuB_gA/vkwMhzhi3Qo.jpg?size=1300x866&quality=96&sign=ffca9f8f98e55511ea05a88fa8b582df&type=album",
+                "https://sun9-50.userapi.com/impg/kzGB2PdJGCNO9uMpwZQBGLvQUUEDnsS50lf4Ww/n-6jZqjjZ3o.jpg?size=1300x866&quality=96&sign=7282d085ae8291caf349b344d384d70b&type=album",
+                "https://sun1-93.userapi.com/impg/dt5iwm-NABVr3Xa7gaTMytMV3d_4432FyB4NZQ/Zap5B5hf2tU.jpg?size=1300x866&quality=96&sign=8a50181b1efe6128a793707d7611598f&type=album",
+                "https://sun1-20.userapi.com/impg/8-Unm48_p7IaOpqg0USEklJtB3Xi5myky0Z_Ng/OF0Er4thZAU.jpg?size=1300x866&quality=96&sign=08bd1ba4412e07407ea47fd6e591be0a&type=album",
+                "https://sun9-27.userapi.com/impg/82DlEzhIFss6rdFP9Df_WyU3iVsKeJdJuqy1yw/z1xob55WCS0.jpg?size=1300x866&quality=96&sign=f29fdc76dba3da6f0e5a860b93956261&type=album" 
+            ]
+        },
+        {
+            "Номер": "№2",
+            "Адрес":"7-я Парковая 9/26",
+            "Цвет":"#0078BF",
+            "Метро":"Первомайская",
+            "Описание": "Расположено максимально удобно к учебному корпусу «На Большой Семёновской»<br><br>Тип общежития: коридорный – раздельные комнаты вдоль коридора, санитарный узел и кухня на этаже, общая душевая<br><br>Проживающих в комнате: 3<br><br>Инфраструктура: коворкинг, тренажерный зал, прачечная, спортивная площадка, бесплатный Wi-Fi",
+            "Фотографии": 
+            [
+                "https://sun9-9.userapi.com/impg/iH1wMl-ebbV6Qtzj5agjpgJy0zA60wN6MIp4zw/VTG8hLmX-LA.jpg?size=1300x866&quality=96&sign=53dc6db6800e2a14d9249386e854ee1f&type=album",
+                "https://sun9-31.userapi.com/impg/eFKL7M5Vo9ZUdQa_0Bwf-pv0eKsCR9Zppv4YKA/X9SNbB17aPg.jpg?size=1300x866&quality=96&sign=b48de30a3705c295cffebd61663e7448&type=album",
+                "https://sun9-15.userapi.com/impg/pIW1WFck3C5vLTivwVoknhVcekE7cWtlshRXBw/9nHKtrqbOjk.jpg?size=1300x866&quality=96&sign=085c2e19a0c62ba05ea83e9c0937efd1&type=album",
+                "https://sun9-40.userapi.com/impg/uzfG9xzPIFP43wzJ1yQt4vHDATdxD-alxLUoqg/VRLKBIAa6HU.jpg?size=1300x866&quality=96&sign=978c14c4697aca4eef485fe16cb00052&type=album",
+                "https://sun9-21.userapi.com/impg/uZlhFb9RPP-1GlI4nAVvSpmVthYy_lQmTf1-XA/Fn7DD8A_Q1I.jpg?size=1300x866&quality=96&sign=498c94a53d532a34a66560c2b285e212&type=album"
+            ]
+        },
+
+        {
+            "Номер": "№3",
+            "Адрес":"1-я Дубровская 16А, стр. 2",
+            "Цвет":"#bed031",
+            "Метро":"Дубровка",
+            "Описание": "Расположено максимально удобно к учебному корпусу «На Автозаводской»<br/><br/>Тип общежития: коридорный – раздельные комнаты вдоль коридора, санитарный узел и кухня на этаже, общая душевая.<br/><br/>Проживающих в комнате: 3<br/><br/>Инфраструктура: коворкинг, прачечная, бесплатный Wi-Fi",
+            "Фотографии": 
+            [
+                "https://sun9-64.userapi.com/impg/6D4vBRDkqqC0zRnTCkp8N2N_FYTiq7NyCZiSYg/_WyxLv-p1Zs.jpg?size=1300x866&quality=96&sign=0b8fdb822d2d39eb7276bcf3af8b7e4e&type=album",
+                "https://sun9-59.userapi.com/impg/9WzaPENrLdNX21Oqf1XpMqdYoqYhlBK2UKwHng/5gYoWPp0ogM.jpg?size=1300x866&quality=96&sign=117b7c4be79a2c8f83d4aed36a3ffd22&type=album",
+                "https://sun9-20.userapi.com/impg/dTnds7qUfXVQU1ad07nCJCrv-oqLfJxZ3wEHJw/eN9zspEkZ5E.jpg?size=1300x866&quality=96&sign=2c312714518c4916c8fc115f92f6e808&type=album",
+                "https://sun9-5.userapi.com/impg/WIKJZ31mQmAlLCBS0GVoK4QKlOB0I9GTKTPxJQ/6bS-bH8Bhaw.jpg?size=1300x866&quality=96&sign=d4ae6e18ae3d9e6e1c1566c7bdc52251&type=album",
+                "https://sun9-34.userapi.com/impg/fXDbjfaEDerS9RFGq7XqrCAK0NNPuMxJasoIsg/_rsbKC2T4K0.jpg?size=1300x866&quality=96&sign=5aeb789b82af77896ad6cf6e2465fcda&type=album",
+                "https://sun9-60.userapi.com/impg/Z8Iol7R92NW1TPdSUzhgs35WDGGT6fxxV5vqqg/UcswwU3sjzA.jpg?size=1300x866&quality=96&sign=8c384dbec6c89066aa859dc9af341938&type=album"
+            ]
+        },
+        {
+            "Номер": "№6",
+            "Адрес":"Бориса Галушкина 9",
+            "Цвет":"#f07e23",
+            "Метро":"ВДНХ",
+            "Описание":"Расположено максимально удобно к учебному корпусу «На Павла Корчагина»<br/><br/>Тип общежития: блочный – по 2 комнаты в блоке с санитарным узлом и душевой, кухня общая на этаже<br/><br/>Проживающих в блоке: 4-6<br/><br/>Инфраструктура: коворкинг, тренажерный зал, прачечная, столовая, бесплатный Wi-Fi",
+            "Фотографии": 
+            [
+                "https://sun9-15.userapi.com/impg/hNT5nyrF8NExGzkvrTn8GzpjLmnRNzoPxhlVOg/IfjOPMUUyKs.jpg?size=666x1000&quality=96&sign=3fc1a49b1803b991c71b5cbfec75b6cd&type=album",
+                "https://sun9-74.userapi.com/impg/tWfbho4XMgrQiqKAjCT8guCYnY06vMl9D5sAbA/SDAVGPMwdos.jpg?size=1300x866&quality=96&sign=f56ec0afb9d4c4fbe986c12cdb5e861c&type=album",
+                "https://sun9-47.userapi.com/impg/Qudg43vuUsd_gq8iDeRMRVp6L-ZCSQObJ9071Q/UXEqzqG_tMw.jpg?size=1300x866&quality=96&sign=42c436fafb78b875b6fbc2ea66786cc2&type=album",
+                "https://sun9-46.userapi.com/impg/cutArSol32-pJjBCNJd2nk1qNTQrPbDzv4bQ-A/YhvCxhqa5Tw.jpg?size=1300x866&quality=96&sign=69e49ef865a90f3f99e479084cc22bdd&type=album"
+            ]
+        },
+        {
+            "Номер": "№8",
+            "Адрес":"Рижский проезд 15, к. 2",
+            "Цвет":"#f07e23",
+            "Метро":"ВДНХ",
+            "Описание":"Расположено максимально удобно к учебному корпусу «На Павла Корчагина»<br/><br/>Тип общежития: квартирный – по 2 комнаты в блоке с санитарным узлом, душевой и кухней<br/><br/>Проживающих в квартире: 5-6<br/><br/>Инфраструктура: прачечная, столовая, бесплатный Wi-Fi",
+            "Фотографии": 
+            [
+                "https://sun9-25.userapi.com/impg/GQaORHDKaAPZunwbwwqdO1sjW3D3z12cUoMhRg/pRHbXpl_xDI.jpg?size=1300x866&quality=96&sign=2b8313e6d3157dc2113cbb6f602c3ad7&type=album",
+                "https://sun9-74.userapi.com/impg/0E2qq-Z--6UXBlCbDFe4JG7zV6pD4EfMVQff-g/nSIuzKK8t1k.jpg?size=1300x866&quality=96&sign=7eda3ee277821711e66476b3aab5df00&type=album",
+                "https://sun9-26.userapi.com/impg/-SQ-VO30yxfJGlrpklZIqvJ9F5ovD19ZTBAl4Q/M9sdh366MpM.jpg?size=1300x866&quality=96&sign=6bec6e201ddb0d69e5e3686386daf08d&type=album",
+                "https://sun9-36.userapi.com/impg/N5QNw5JdC9iQR3eFUv37q9HMnoXfFxJcxtMIOQ/fAKDYZHvAOs.jpg?size=1300x866&quality=96&sign=748c0d41e493ba23f0c30748bbdd61b3&type=album",
+                "https://sun9-17.userapi.com/impg/fW3XxcqxSm_wiU-bGM3y57wCDDFU74CNM6uDhw/mC81FjjkfLY.jpg?size=1300x866&quality=96&sign=64aa8ec6768df6ae4e4f0953acc9b64b&type=album",
+                "https://sun9-60.userapi.com/impg/gfiTW1aHuesS0yMcIfE176gpUg6XgUjvW9eA8g/z53vV92Nw9g.jpg?size=1300x866&quality=96&sign=221f18764e5d3329edbc0580e355b498&type=album"
+            ]
+        },
+        {
+            "Номер": "№9",
+            "Адрес":"Рижский проезд 15, к. 1",
+            "Цвет":"#f07e23",
+            "Метро":"ВДНХ",
+            "Описание": "Расположено максимально удобно к учебному корпусу «На Павла Корчагина»<br/><br/>Тип общежития: коридорный – раздельные комнаты вдоль коридора, санитарный узел и кухня на этаже, общая душевая<br/><br/>Проживающих в комнате: 3<br/><br/>Инфраструктура: комната самоподготовки, прачечная, столовая, бесплатный Wi-Fi",
+            "Фотографии": 
+            [
+                "https://sun9-65.userapi.com/impg/PiAhLJcFxoCMCAm1nPSAibEuH--2GGKnKPIxDw/nXV5N6yWMJM.jpg?size=1300x866&quality=96&sign=66a56ba1e21d1610f2a78b94bb21fa18&type=album",
+                "https://sun9-72.userapi.com/impg/7tk-QGQ1K20YvEKK8xEpGs0p_Sm0UjyBFxzFbw/E32PWS2QozI.jpg?size=1300x866&quality=96&sign=94dd042d2d06c0ec6055b3f5469fc143&type=album",
+                "https://sun9-6.userapi.com/impg/KElDblSFFn7s0ILG7B7HGkHacTIMzh6NXSmKOw/BKIQ8PABp2I.jpg?size=1300x866&quality=96&sign=576a9201a8ed47b83764081da1f426a9&type=album",
+                "https://sun9-26.userapi.com/impg/wOr-zvJ8b2npgmg6TbotDFUKY_FGI0uBt02PpA/ri9Yk6IWgfU.jpg?size=666x1000&quality=96&sign=fb92798b898eafa5a96f446531e48a17&type=album"
+            ]
+        },
+        {
+            "Номер": "№10",
+            "Адрес":"Балтийский переулок 6/21, к. 3",
+            "Цвет":"#4daf4a",
+            "Метро":"Сокол",
+            "Описание": "Максимально удобная транспортная доступность до учебного корпуса «На Автозаводской»<br/><br/>Тип общежития: смешанный коридорный – раздельные комнаты вдоль коридора, санитарный узел, душевая и кухня на этаже блочный – по 2 комнаты в блоке с санитарным узлом и душевой, кухня общая на этаже <br/><br/>Проживающих в комнате: 1-2<br/><br/>Инфраструктура: коворкинг, прачечная",
+            "Фотографии": 
+            [
+                "https://sun9-59.userapi.com/impg/HUHWzz0P-0MO3VqMgGWppFbb-3GGUZJ7XUCeoA/zrrp-QKjq68.jpg?size=1300x866&quality=96&sign=101ea5ab1c55a7113ed41cf8258ed668&type=album",
+                "https://sun9-61.userapi.com/impg/bF5nRx1K61uCmAdqLiWDkL6scDhGDJAvvOVc1A/lCNmDvRu9Yw.jpg?size=1300x866&quality=96&sign=72c6116599309ab5b2d1010c975a20a7&type=album",
+                "https://sun9-24.userapi.com/impg/HFbWA5P6hdnk4Y8U4UUEyDG9tEI3cKETcjGzoQ/qeUOHaYaa_s.jpg?size=1300x866&quality=96&sign=2641a8d44c4a961c795e517af5397991&type=album",
+                "https://sun9-17.userapi.com/impg/6f5Wa8bp4XO0TH6vcnWtvijscGsT0CQ9u1vayg/F-0r0wZMTyY.jpg?size=1300x866&quality=96&sign=f811e96aa2c9b18f9ee56a70b3dd1e5d&type=album",
+                "https://sun9-41.userapi.com/impg/xYeUZHfeYIODfRGfehmbW0Rdgrzvl4Tg69KP6w/aAstTshRYC8.jpg?size=1300x866&quality=96&sign=e86e754628d5b840196531b8269e4c47&type=album"
+            ]
+        }
+    ]
+}
