@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Админка</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="front.js"></script>
+</head>
+
+<body onload="selectJSONParser('directions');">
+    <div id="container">
+        <div>
+            <select name="jsonParserSelector" id="jsonParserSelector" onchange="selectJSONParser(value)">
+                <option value="directions">Направления подготовки</option>
+                <option value="other">Прочее</option>
+            </select>
+        </div>
+        <div>
+            <input type="file" id='fileChooser'>
+            <button onclick="load()">Отправить</button>
+        </div>
+        <div id='titleContainer'>
+            <div id='subtitleDataContainer'>
+                <div class='buttons'>
+                    <button onclick="createWindow('field_add')">
+                        Добавить поле
+                    </button>
+                    <button onclick="createWindow('field_delete')">
+                        Удалить поле
+                    </button>
+                </div>
+                <ul id='subtitleData'>
+                </ul>
+            </div>
+            <button onclick="save()">Сохранить</button>
+        </div>
+    </div>
+</body>
+
+</html>
