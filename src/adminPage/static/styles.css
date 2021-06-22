@@ -1,0 +1,109 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+div#titleContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 860px;
+    height: 600px;
+    background-color: rgba(101, 204, 32, 0.384);
+}
+
+div.buttons {
+    display: flex;
+    align-self: flex-end;
+    width: auto;
+    height: 30px;
+}
+
+div.buttons1{
+    display: flex;
+    align-self: center;
+    width: auto;
+    height: 30px;
+}
+
+div.subtitleContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: rgba(32, 35, 204, 0.184);
+}
+
+div#subtitleDataContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(204, 32, 32, 0.184);
+
+    overflow-y: auto;
+}
+
+div#title {
+    width: 200px;
+    height: 30%;
+    background-color: rgba(255, 2, 141, 0.184);;
+}
+
+div#subtitle {
+    width: 400px;
+    height: 30%;
+    background-color: rgba(2, 255, 65, 0.233);;
+}
+
+div#field_add {
+    width: 200px;
+    height: 30%;
+    background-color: rgba(120, 2, 255, 0.233);
+}
+div#field_edit {
+    width: 560px;
+    height: 30%;
+    background-color: rgba(120, 2, 255, 0.233);;
+}
+div#field_delete {
+    width: 300px;
+    height: 30%;
+    background-color: rgba(2, 48, 255, 0.233);;
+}
+
+div#object_edit {
+    width: 560px;
+    height: 40%;
+    background-color: rgba(120, 2, 255, 0.233);
+}
+
+select {
+    align-self: center;
+    width: 80%;
+}
+
+button#editCancel {
+    background-color: lightpink;
+}
